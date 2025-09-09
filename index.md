@@ -1,24 +1,20 @@
-<a href="https://github.com/intbio/mm_hse_2024/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
-# Molecular Modeling and Simulations (HSE) (Fall 2024)
+<a href="https://github.com/intbio/mm_hse_2025/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
+# Molecular Modeling and Simulations (HSE) (Fall 2025)
 
 ### Contact information
 - Instructor: Alexey K. Shaytan, PHD alex@intbio.org
 - Teaching assistants: Nikita Kosarim
-- [Telegram link](https://t.me/+hkL5Ys97zJE1ZTAy)
+- [Telegram link](https://t.me/+fMUEuEJSXSQyMjli)
 - [Folder with presentations]()
-- [Home work folder](https://www.dropbox.com/request/9DsYh4Q8v1OX4tdzUH6b)
+- [Home work folder](https://www.dropbox.com/request/UVrM4mwxXDbtCG54mP2N)
 
 ### Meetings and Location
-- Classroom:
-  
+- Classroom: G406
+ 
 1 модуль: 
-10.09,17.09,24.09,1.10,8.10 - R611
-15.10 - R612
-22.10 - D210
-
+9.09 - 21.10
 2 модуль: 
-5.11 - D507
-12.11,19.11,26.11,3.12,10.12,17.12 - D210
+11.11 - 16.12
 
 - Lectures-Seminars: Fridays 18:10-21:00
 
@@ -60,7 +56,7 @@ The course provides an overview of molecular modeling and simulations methods in
  7. [Gromacs](https://www.gromacs.org) installed locally.
 
 ### Course calendar
-- Dates: 10.09,17.09,24.09,1.10,8.10,15.10,22.10 (midterm test),5.11,12.11,19.11,26.11,3.12,10.12,17.12 (final test)
+- Dates:  9.09; 16.09; 23.09; 30.09; 7.10; 14.10; 21.10 (midterm test), 11.11; 18.11; 25.11; 2.12; 9.12; 16.12 (final test)
 
 ### Attendance policy
 - Attending lectures and seminars is strongly encouraged.
@@ -303,7 +299,7 @@ The course provides an overview of molecular modeling and simulations methods in
 #### Домашние работы
 
 - Не влияют на оценку за курс, но помогут лучше подготовиться к контрольным работам и экзамену.
-- Работы можно загружать по [по ссылке](https://www.dropbox.com/request/9DsYh4Q8v1OX4tdzUH6b)  единым файлом (doc, pdf, zip). Имя файла: Asgmt_Number_Surname_Initials. Например, Asgmt_2_Petrov_AV.pdf
+- Работы можно загружать по [по ссылке](https://www.dropbox.com/request/UVrM4mwxXDbtCG54mP2N)  единым файлом (doc, pdf, zip). Имя файла: Asgmt_Number_Surname_Initials. Например, Asgmt_2_Petrov_AV.pdf
 
 
 #### Промежуточная контрольная работа
