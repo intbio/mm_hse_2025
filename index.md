@@ -46,7 +46,7 @@ The course provides an overview of molecular modeling and simulations methods in
 - K.V. Shaitan, K.B. Tereshkina. Molecular dynamics simulations of proteins and peptides. [Russian only](https://istina.msu.ru/publications/book/10136512/)
 - [Gromacs manual](https://manual.gromacs.org)
 
-
+ 
 ### Required resources
  1. Laptop or workstation with access to internet.
  2. [Pymol](https://pymol.org/2/) installed locally on your workstation/laptop.
