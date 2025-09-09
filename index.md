@@ -57,7 +57,7 @@ The course provides an overview of molecular modeling and simulations methods in
  7. [Gromacs](https://www.gromacs.org) installed locally.
 
 ### Course calendar
-- Dates:  9.09; 16.09; 23.09; 30.09; 7.10; 14.10; 21.10 (midterm test), 11.11; 18.11; 25.11; 2.12; 9.12; 16.12 (final test)
+- Dates:  9.09(L1-2); 16.09(S1-2); 23.09(L3-4); 30.09(S3-4); 7.10(L5S5); 14.10(L6-7); 21.10 (midterm test), 11.11(S6-7); 18.11(L8S8); 25.11(L9-10); 2.12(S9-10-11); 9.12(L11-12-13); 16.12 (final test)
 
 ### Attendance policy
 - Attending lectures and seminars is strongly encouraged.
